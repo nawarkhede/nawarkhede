@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Python, Django, AWS, Docker, Pandas, Elasticsearch, Redis, MongoDB, Microservices, Google App Engine, Postgres...
-- 🌱 I’m currently learning kubernetes
+- 🌱 I’m currently learning Kubernetes, ML, AI
 - 👯 I’m looking to collaborate on Python, Django
 - 💬 Ask me about ...
 - 📫 How to reach me: nishant[dot]nawarkhede[at]gmail[dot]com
