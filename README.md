@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<figure><embed src="https://wakatime.com/share/@ad7be84f-3fef-479a-a54e-47b51774b1d4/e422299e-508c-471e-b092-1cc55e0358b4.svg"></embed></figure>
+<img src="https://wakatime.com/share/@ad7be84f-3fef-479a-a54e-47b51774b1d4/e422299e-508c-471e-b092-1cc55e0358b4.svg">
